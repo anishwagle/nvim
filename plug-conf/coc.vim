@@ -165,7 +165,4 @@ nnoremap <silent><nowait> <space>k  :<C-u>CocPrev<CR>
 nnoremap <silent><nowait> <space>p  :<C-u>CocListResume<CR>
 
 " Use preset argument to open it
-nnoremap <space>ed :CocCommand explorer <CR>
-nnoremap <space>ef :CocCommand explorer --preset floating<CR>
-nnoremap <space>ec :CocCommand explorer --preset cocConfig<CR>
-nnoremap <space>eb :CocCommand explorer --preset buffer<CR>
+nnoremap <space>e :CocCommand explorer <CR>
