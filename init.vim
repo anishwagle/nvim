@@ -28,6 +28,7 @@ so ~/.config/nvim/plug-conf/fzf.vim
 so ~/.config/nvim/plug-conf/coc.vim
 colorscheme gruvbox
 highlight Normal guibg=none
+"navigate between splits
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
 nnoremap <C-L> <C-W><C-L>
