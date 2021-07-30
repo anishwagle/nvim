@@ -9,5 +9,7 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'airblade/vim-rooter'
+Plug 'evanleck/vim-svelte', {'branch': 'main'}
+
 call plug#end()
 let g:coc_global_extensions = ['coc-omnisharp','coc-clangd','coc-pairs','coc-rls','coc-css','coc-deno','coc-explorer','coc-git','coc-highlight','coc-html','coc-html-css-support','coc-htmlhint','coc-json','coc-omnisharp','coc-prettier','coc-python','coc-sh','coc-stylelintplus','coc-snippets','coc-spell-checker','coc-tsserver','coc-vetur']
