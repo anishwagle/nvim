@@ -26,6 +26,7 @@ let mapleader = " "
 so ~/.config/nvim/plug.vim
 so ~/.config/nvim/plug-conf/fzf.vim
 so ~/.config/nvim/plug-conf/coc.vim
+so ~/.config/nvim/plug-conf/floaterm.vim
 colorscheme gruvbox
 highlight Normal guibg=none
 "navigate between splits

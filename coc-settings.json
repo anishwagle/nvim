@@ -9,5 +9,8 @@
     "javascript",
     "json",
     "typescript"
+  ],
+  "cSpell.userWords": [
+    "mariadb"
   ]
 }
